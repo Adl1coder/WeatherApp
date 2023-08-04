@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Week3Homework6</string>
+    <string name="mersin">Mersin</string>
+    <string name="bugun">Bugün</string>
+    <string name="yarin">Yarın</string>
+    <string name="gun">14 Gün</string>
+    <string name="acik">Açık</string>
+    <string name="bulutlu">Çok bulutlu</string>
+    <string name="yagmur">Yağmur</string>
+    <string name="agu25">Perşembe, Ağu 25</string>
+    <string name="agu26">Cuma, Ağu 26</string>
+    <string name="agu27">Cumartesi, Ağu 27</string>
+    <string name="agu28">Pazar, Ağu 28</string>
+    <string name="agu29">Pazartesi, Ağu 29</string>
+    <string name="agu30">Salı, Ağu 30</string>
+    <string name="agu31">Çarşamba, Ağu 31</string>
+    <string name="yirmisekiz">28°</string>
+    <string name="onbes">15°</string>
+    <string name="yirmi">20°</string>
+    <string name="onuc">13°</string>
+    <string name="yirmiiki">22°</string>
+    <string name="ondort">14°</string>
+    <string name="yirmiuc">23°</string>
+    <string name="yuzdedoksan">90%</string>
+</resources>
